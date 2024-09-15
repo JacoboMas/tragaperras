@@ -1,0 +1,17 @@
+.machine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.reel {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
